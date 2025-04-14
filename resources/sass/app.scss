@@ -26,3 +26,19 @@ body {
   object-fit: cover;
   object-position: top;
 }
+
+.nav-img {
+  object-fit: cover;
+  width: 60px;
+}
+
+.nav-img img {
+  max-width: 60px;
+  max-height: 60px;
+}
+
+.footer-nav {
+  background-image: url('../img/footer-bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
